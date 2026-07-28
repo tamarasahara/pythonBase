@@ -1,6 +1,0 @@
-VAULT_PATH = r"/home/maro/Documents/2_Areas/obsidianGitVault"
-NOTE_TYPE = "note_type"
-SOURCES_FOLDER =  r"_Sources"
-COVERS_FOLDER =  r"_Sources/covers"
-ITEMS_FOLDER = r"Items"
-TEMPLATE_FOLDER = r"_Templates"
